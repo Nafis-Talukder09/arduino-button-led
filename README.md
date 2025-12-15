@@ -16,3 +16,5 @@ This is my second Arduino project.
 - Digital input/output
 - INPUT_PULLUP
 - Basic if-else logic
+## This is my tinkercad project's link
+https://www.tinkercad.com/things/24bwiIC2Agt-surprising-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=vgclwU3zSAUFsRWFt5AVbChjO0rlwNl9HjPHKjYYnEs
